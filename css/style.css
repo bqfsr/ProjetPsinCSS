@@ -33,7 +33,7 @@ a {
     
     }
     body {
-    background: url("img/img.png") no-repeat top left;
+    background: url("../img/img.png") no-repeat top left;
     background-size: 200%;
     background-attachment: fixed;
     }
