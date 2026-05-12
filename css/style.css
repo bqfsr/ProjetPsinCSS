@@ -1,0 +1,39 @@
+
+
+header {
+        color: #e8e;
+    }
+
+
+
+
+
+h1 {
+        
+        color: #e8e
+            }
+    p {
+    background: #ffff00;
+            }
+
+ul {
+        list-style: none; 
+        padding: 0;
+        margin: 0 auto; 
+        text-align: center; 
+        width: fit-content; 
+            
+    }
+    
+a {
+        text-decoration: none;
+    }
+.un {
+        background: #ff0000;
+    
+    }
+    body {
+    background: url("/img/img.png") no-repeat top left;
+    background-size: 200%;
+    background-attachment: fixed;
+    }
